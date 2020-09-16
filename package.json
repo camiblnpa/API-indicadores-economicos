@@ -1,0 +1,16 @@
+{
+  "name": "indicadores_camila_pinto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camila Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.0",
+    "time-stamp": "^2.2.0"
+  }
+}
